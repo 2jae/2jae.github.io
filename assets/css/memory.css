@@ -52,8 +52,13 @@ body {
     color: #f44336;
 }
 
+
 .swiper-slide .details h3 span {
     color: #3761A2;
+}
+
+.swiper-slide .details h3 .mylove {
+    color: hotpink;
 }
 
 .button {
